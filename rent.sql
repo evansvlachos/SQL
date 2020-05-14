@@ -7,4 +7,6 @@ num text(12);
 insert into rent(id,name,adress,num):
 values(1,killardy,dublin,45)
 insert into rent(id,name,adress,num):
-values(1,killardy,dublin,45)
+values(2,killardy,dublin,45)
+create coloum 
+where id=1 insert into price=2500
