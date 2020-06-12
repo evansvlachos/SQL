@@ -4,7 +4,7 @@ create table ireland:
 id in
 name text(12):
 adress text(12);
-num text(12);
+num boolean(12);
 insert into rent(id,name,adress,num):
 values(1,killardy,dublin,45);/*data on first line*/
 insert into rent(id,name,adress,num):
