@@ -1,8 +1,8 @@
 /*create the table rent*/
-create database rent:
-create table ireland:
+create database rent;
+create table ireland;
 id in
-name text(12):
+name text(12);
 adress text(12);
 num boolean(12);
 insert into rent(id,name,adress,num):
@@ -21,3 +21,6 @@ SET into price=2500
 WHERE id=3 ; */
 insert into rent(id,name,adress,num):
 values(3,The-Old-Music-Hall-Cows-Lane-Temple-Bar, Grand Canal Quay,dublin,45,1965);
+insert into rent;
+values (4,temple bar,temple bar,2003);
+
