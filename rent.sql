@@ -19,8 +19,11 @@ WHERE id=1 ;
 /*UPDATE ireland
 SET into price=2500
 WHERE id=3 ; */
-insert into rent(id,name,adress,num):
+insert into rent(id,name,adress,num,year);
 values(3,The-Old-Music-Hall-Cows-Lane-Temple-Bar, Grand Canal Quay,dublin,45,1965);
 insert into rent;
 values (4,temple bar,temple bar,2003);
-
+/*https://www.rent.ie/houses-to-let/Bloomfield-Park-Apartments-Bloomfield-Avenue-Ballsbridge-Dublin-4/2080428/ */
+insert into rent;
+values(id,name,adress,num,year,price);
+values(5,Bloomfield Park Apartments, Bloomfield Avenue, Ballsbridge, Dublin ,4,3500);
