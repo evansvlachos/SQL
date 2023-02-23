@@ -27,3 +27,5 @@ values (4,temple bar,temple bar,2003);
 insert into rent;
 values(id,name,adress,num,year,price);
 values(5,Bloomfield Park Apartments, Bloomfield Avenue, Ballsbridge, Dublin ,4,3500);
+insert into rent;
+values(id,name,adress,num,year,price);
