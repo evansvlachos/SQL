@@ -1,7 +1,7 @@
 /*create the table rent*/
 create database rent;
 create table ireland;
-id in
+id insert
 name text(12);
 adress text(12);
 num boolean(12);
@@ -29,3 +29,5 @@ values(id,name,adress,num,year,price);
 values(5,Bloomfield Park Apartments, Bloomfield Avenue, Ballsbridge, Dublin ,4,3500);
 insert into rent;
 values(id,name,adress,num,year,price);
+values(б,St Edmunds,St Edmunds Avenue, Lucan, Dublin,0,1875 );
+/*https://www.daft.ie/for-rent/st-edmunds-avenue-st-edmunds-avenue-lucan-co-dublin/4577972*/
