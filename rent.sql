@@ -31,3 +31,9 @@ insert into rent;
 values(id,name,adress,num,year,price);
 values(б,St Edmunds,St Edmunds Avenue, Lucan, Dublin,0,1875 );
 /*https://www.daft.ie/for-rent/st-edmunds-avenue-st-edmunds-avenue-lucan-co-dublin/4577972*/
+insert into rent;
+values(id,name,adress,num,year,price);
+values(7, St Edmunds Avenue, St Edmunds Avenue , Lucan, Dublin,0,2250);
+/*https://www.daft.ie/for-rent/apartment-type-b-st-edmunds-avenue-st-edmunds-avenue-lucan-co-dublin/4577974*/
+insert into rent;
+values(id,name,adress,num,year,price);
